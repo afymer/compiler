@@ -1,3 +1,5 @@
+use preprocessor::preprocess;
+
 fn main() {
-    println!("Hello, world!");
+    preprocess();
 }
