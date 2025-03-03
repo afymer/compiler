@@ -3,17 +3,5 @@
 version = 4
 
 [[package]]
-name = "compiler"
-version = "0.1.0"
-dependencies = [
- "lexer",
- "preprocessor",
-]
-
-[[package]]
 name = "lexer"
-version = "0.1.0"
-
-[[package]]
-name = "preprocessor"
 version = "0.1.0"
